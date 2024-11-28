@@ -1,9 +1,7 @@
 {
     "rewrites": [
       { "source": "/", "destination": "/index 2.html" },
-      { "source": "/project 1.png", "destination": "/index 2.html" },
-      { "source": "/project 2.png", "destination": "/index 2.html" },
-      { "source": "/project 5 .jpg", "destination": "/index 2.html" }
+      { "source": "/project 1.png", "destination": "/index 2.html" }
     ]
   }
   
